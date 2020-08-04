@@ -20,9 +20,7 @@ Pasos para usarlo:
 - 2. "Generar y Ver"  // si haces cambios en el tamaño/Separacion/Font. usarlo de nuevo.
 - 3. "Guardar"
 
-[![Themes](http://oi59.tinypic.com/33c3lee.jpg)](http://www.crearmijuego.org)
-
-[![Themes](http://oi62.tinypic.com/2dqrnyw.jpg)](http://www.crearmijuego.org)
+[![Themes](https://i.ibb.co/MGGBhDM/bitmapfont.png)](http://www.crearmijuego.com)
 
 
 
